@@ -61,7 +61,5 @@ Before you begin, ensure you have the following installed:
     php artisan serve
     ```
 
-## API Endpoints
 
-### 1. Register a new user
 
